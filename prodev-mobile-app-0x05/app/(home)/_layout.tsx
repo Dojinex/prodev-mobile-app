@@ -24,6 +24,7 @@ const HomeRootLayout = () => {
           ),
         }}
       />
+
       <Tabs.Screen
         name="search"
         options={{
@@ -34,6 +35,7 @@ const HomeRootLayout = () => {
           ),
         }}
       />
+
       <Tabs.Screen
         name="saved"
         options={{
@@ -44,6 +46,7 @@ const HomeRootLayout = () => {
           ),
         }}
       />
+
       <Tabs.Screen
         name="inbox"
         options={{
@@ -54,6 +57,7 @@ const HomeRootLayout = () => {
           ),
         }}
       />
+
       <Tabs.Screen
         name="profile"
         options={{
